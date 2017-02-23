@@ -249,6 +249,7 @@ void MainWindow::on_Poprzedni_clicked()
 
   //  wskaznik--;
     numer--;
+    ile_liczb--;
   //  oblicz();
     ramki();
     pozycja();
